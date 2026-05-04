@@ -5,7 +5,7 @@ plotly.express
 plotly.graph_objects
 stats
 json
-import datetime
+datetime
 plotly.io 
 os
 ast
